@@ -7,4 +7,4 @@ The goal is to make a custom pointer with CSS and JS
 div that follows the mouse every time it moves
 
 
-Thanks you Abhishek for the idea: https://www.tutorialspoint.com/How-to-find-the-coordinates-of-the-cursor-with-JavaScript
+Shout out to Samson Omojola for the idea: https://blog.logrocket.com/creating-custom-mouse-cursor-css/
