@@ -19,7 +19,7 @@ body {
     background-color: rgb(58, 65, 64);
     transform: translate(-7px, -7px);
     border-radius: 50%;
-    animation: opacityPulse 1.5s linear infinite;
+    animation: cursorPulse 1.5s linear infinite;
 }
 
 @keyframes cursorPulse {
